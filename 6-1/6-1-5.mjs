@@ -6,4 +6,3 @@ const d = 15
 console.log(a ?? d)
 console.log(b ?? d)
 console.log(c ?? d)
-
